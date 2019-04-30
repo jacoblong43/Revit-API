@@ -2,7 +2,7 @@
 This is a repository for those learning the Revit API, Revit Macros, Revit Commands, and Revit Applications.
 This includes, but not limited to, Simple functioning add-ins, Adding new panels, Retrieve selected/filtered elements, read/write from Revit, etc.
 
-It will be updated as I continue to work on bits & pieces and I will try to comment as much as possible, so new users will understand.
+It will be updated as I continue to teach my self and I will try to comment as much as possible, so new users will understand.
 
 ## Software Needed
 Before doing anything please install Revit 2018 as well as Microsoft Visual Studio Community 2017. Make sure the download for Visual 
